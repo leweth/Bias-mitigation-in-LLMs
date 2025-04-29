@@ -1,0 +1,5 @@
+# The virtual environement utilities environment
+venv
+
+# The database
+chroma_db
